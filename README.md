@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Syahirah
 - 👀 I’m interested in Web Application Development , Machine learning and Data Visualisation. 
-- 🌱 I’m currently learning Master in CS (Web Technlogy) in UITM.
+- 🌱 Graduated from Master in CS (Web Technlogy) in UITM and Degree in CS (Software Engineering)
 - 💞️ I’m looking to collaborate on anything that is fun. 
 - 📫 How to reach me? Send me email on s.syahirah@hotmail.com. 
 
